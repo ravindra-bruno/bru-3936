@@ -4,6 +4,10 @@ info:
   type: workspace
 
 collections:
+  - name: "Endpoint1"
+    path: "collections/Endpoint1"
+  - name: "Endpoint2"
+    path: "collections/Endpoint2"
 
 specs:
 

@@ -1,0 +1,16 @@
+info:
+  name: "1.02"
+  type: http
+  seq: 2
+
+http:
+  method: POST
+  url: https://dummy.restapiexample.com/api/v1/employees
+  auth: inherit
+
+settings:
+  encodeUrl: true
+  timeout: 0
+  followRedirects: true
+  maxRedirects: 5
+  forwardAuthorizationHeader: false
