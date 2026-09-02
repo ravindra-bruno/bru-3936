@@ -1,9 +1,5 @@
 info:
-<<<<<<<< HEAD:collections/Endpoint1/1.018.yml
   name: "1.018"
-========
-  name: "1.012"
->>>>>>>> e9dd00efe4666e2b59ed653332e427d093a3fd51:collections/Endpoint1/1.012.yml
   type: http
   seq: 1
 
