@@ -5,7 +5,7 @@ info:
 
 http:
   method: GET
-  url: https://dummy.restapiexample.com/api/v1/employee/55
+  url: https://dummy.restapiexample.com/api/v1/employee/51
   auth: inherit
 
 settings:
