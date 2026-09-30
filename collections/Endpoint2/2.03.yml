@@ -16,7 +16,7 @@ settings:
   forwardAuthorizationHeader: false
 
 examples:
-  - name: "2.01"
+  - name: "2.03"
     request:
       url: https://dummy.restapiexample.com/api/v1/employee/45
       method: GET
